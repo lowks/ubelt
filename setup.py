@@ -59,6 +59,7 @@ if __name__ == '__main__':
         version=version,
         author='Jon Crall',
         author_email='erotemic@gmail.com',
+        description='A python utility belt',
         url='https://github.com/Erotemic/ubelt',
         license='Apache 2',
         packages=['ubelt'],
